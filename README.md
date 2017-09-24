@@ -19,7 +19,7 @@ Table: users
 
 ```
 
-Notice that the hash started with '0e' and in the sourcecode we could see that the strings were compared with '==' so I used 'LordCommander:QNKCDZO' to login and got the flag: CTF{type_juggling_and_blind_sql_are_worth_a_fun_240610708}
+Noticed that the MD5 hash started with '0e' and in the sourcecode we could see that the strings were compared with '==' so I used 'LordCommander:QNKCDZO' to login and got the flag: CTF{type_juggling_and_blind_sql_are_worth_a_fun_240610708}
 
 How could I login with 'QNKCDZO', read this post @ stackoverflow: https://stackoverflow.com/questions/22140204/why-md5240610708-is-equal-to-md5qnkcdzo
 
